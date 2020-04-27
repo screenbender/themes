@@ -3208,7 +3208,7 @@ Very large tablets in landscape mode and most desktops.
 	.page.apostrophe-2-no-sidebar #primary {
 		float: none;
 		margin: 0 auto;
-		width: 730px;
+		width: 100%;
 	}
 
 	.blog.apostrophe-2-no-sidebar #primary,
